@@ -1,4 +1,4 @@
-# 🍌 Bananalyzer – AI-modell för kundkonvertering
+# 🍌 Kokobananalyzer – AI-modell för kundkonvertering
 
 Detta projekt utvecklades som en del av en skoluppgift på ITHS med syftet att hjälpa e-handelsföretaget **KokoBananas** att identifiera vilka kundsessioner som sannolikt leder till ett köp. Genom maskininlärning förutspår modellen i realtid köpbeteende baserat på historiska sessionsegenskaper.
 
