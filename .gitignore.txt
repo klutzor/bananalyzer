@@ -1,0 +1,19 @@
+# Ignorera Python-cachefiler
+__pycache__/
+*.pyc
+
+# Ignorera Jupyter Notebook-checkpoints
+.ipynb_checkpoints/
+
+# Ignorera modellfiler och temporära data
+*.pkl
+*.joblib
+*.csv
+*.xlsx
+*.h5
+
+# Ignorera miljö- och IDE-filer
+.env
+.DS_Store
+.vscode/
+.idea/
